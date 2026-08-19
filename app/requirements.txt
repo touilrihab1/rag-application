@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+openai
+unstructured[all-docs]
+unstructured-inference
+pytesseract
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+langchain-chroma
+langchain-classic
+chromadb
+tiktoken
+sentence-transformers
+pillow
+lxml
