@@ -31,3 +31,7 @@ Relevant Context Retrieval
 LLM
  ↓
 Generated Answer
+
+## Demo
+
+![PDF Chatbot Screenshot](image/screenshot.png)
