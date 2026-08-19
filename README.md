@@ -10,6 +10,9 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload P
 - Retrieve relevant information using vector search
 - Generate answers using an LLM
 - Chat with PDF documents through an interactive interface
+## Demo
+
+![PDF Chatbot Screenshot](image/screenshot.png)
 
 ## How It Works
 
@@ -32,6 +35,5 @@ LLM
  ↓
 Generated Answer
 
-## Demo
 
-![PDF Chatbot Screenshot](image/screenshot.png)
+
